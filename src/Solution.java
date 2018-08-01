@@ -71,4 +71,5 @@ public class Solution {
         numArray[numArray.length - 1] = first;
         return numArray;
     }
+
 }

@@ -39,6 +39,7 @@ public class Main {
         s.rotateArray2(numsRotateArray, k);
         System.out.println(Arrays.toString(numsRotateArray));
 
+
     }
 
     public static void divider() {
