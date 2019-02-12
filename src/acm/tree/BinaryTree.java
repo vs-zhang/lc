@@ -14,5 +14,7 @@ public class BinaryTree {
         System.out.println(bt.root.data);
         System.out.println(bt.root.left.data);
         System.out.println(bt.root.right.data);
+        Solution s = new Solution();
+        System.out.println(s.isBst(bt.root));
     }
 }
