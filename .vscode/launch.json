@@ -2,6 +2,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.tree.sumOfLeftNode.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.tree.biggestValueEachRow.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.tree.mirrorTree.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.tree.isSameTree.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.matrix.rotate.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.matrix.spiralPrint.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.matrix.snakePrint.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.matrix.normal_print.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.tree.level_print.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.Tree.levelPrint.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.playground.oneotwo.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryTree",
+            "request": "launch",
+            "mainClass": "acm.tree.BinaryTree",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "leetcode.oneotwo.Main",
+            "projectName": "lc_6a1728e8"
+        },
+        {
+            "type": "java",
             "name": "leetcode 1",
             "request": "launch",
             "mainClass": "leetcode.one.Main",
